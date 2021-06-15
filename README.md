@@ -1,4 +1,4 @@
-# Moving wave with JavaScript
+# Passing Sheep with JavaScript
 
 #### https://krungy.github.io/Interactive_Tutorial_PassingSheep/
 
